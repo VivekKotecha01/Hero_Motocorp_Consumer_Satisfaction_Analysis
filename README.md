@@ -11,7 +11,7 @@ In this project, we conducted a comprehensive consumer satisfaction survey at He
 
 2. *Tools:*
   - Excel - Data Cleaning
-  - SPAA - Data Analysis & Visualisation
+  - SPSS - Data Analysis & Visualisation
   - Word - For Report
 
 3. *Data Analysis:* The collected data was analyzed using statistical techniques and the SPSS software. I performed descriptive statistics to identify key factors affecting consumer satisfaction.
